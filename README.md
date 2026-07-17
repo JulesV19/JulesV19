@@ -6,7 +6,7 @@ I build projects at the intersection of machine learning, web development, and d
 
 ## Projects
 
-- **[road-segmentation-deployement](https://github.com/JulesV19/road-segmentation-deployement)** — Microservices deployment of a road-segmentation model (UNet + EfficientNet-B4, Cityscapes, mIoU 0.836). Upload an image/video, get the segmentation overlay back. `FastAPI · Celery · Redis · PostgreSQL · Docker · React`
+- **road-segmentation-deployement** — Microservices deployment of a road-segmentation model (UNet + EfficientNet-B4, Cityscapes, mIoU 0.836). Upload an image/video, get the segmentation overlay back. `FastAPI · Celery · Redis · PostgreSQL · Docker · React`
 - **LogApp** — Real-time full-stack SaaS with Row-Level Security auth and WebSocket sync. `Next.js · Supabase · PostgreSQL · TypeScript`
 - **Cardiac-JEPA** — Impact of JEPA self-supervised pre-training on the PTB-XL ECG dataset. `PyTorch`
 - **Simple Pendulum World Models** — Classical autoencoders vs. JEPA for modeling pendulum motion. `PyTorch`
