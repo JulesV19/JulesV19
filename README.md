@@ -1,6 +1,6 @@
 # Jules Videgrain
 
-**Student | Full-Stack Developer | ML/AI Explorer**
+**CentraleSupélec Student | Full-Stack Developer | ML/AI Explorer**
 
 Passionate about building innovative solutions at the intersection of **machine learning**, **web development**, and **complex systems**.
 
