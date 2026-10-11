@@ -8,7 +8,7 @@ I build projects at the intersection of machine learning, web development, and d
 
 - **Cardiac-JEPA** — Impact of JEPA self-supervised pre-training on the PTB-XL ECG dataset. `PyTorch`
 - **Simple Pendulum World Models** — Classical autoencoders vs. JEPA for modeling pendulum motion. `PyTorch`
-- **road-segmentation-deployement** — Microservices deployment of a road-segmentation model (UNet + EfficientNet-B4, Cityscapes, mIoU 0.836). Upload an image/video, get the segmentation overlay back. `FastAPI · Celery · Redis · PostgreSQL · Docker · React`
+- **road-segmentation** — Semantic segmentation of driving scenes on Cityscapes: UNet with a pretrained EfficientNet-B4 encoder labels each pixel among 7 categories (ground, buildings, poles & signs, vegetation, sky, people, vehicles). Full pipeline from preprocessing to GPU training, evaluation and video inference — 0.886 mIoU on 3 validation cities unseen during training. `PyTorch`
 - **RealScape** — Interactive 3D map generator for European cities from OpenStreetMap data. `Vue.js · Three.js`
 - **Phytoreg-RAG-FR** — RAG system over French phytosanitary regulations with a local LLM. `Python · RAG`
 
